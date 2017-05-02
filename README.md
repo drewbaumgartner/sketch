@@ -1,0 +1,1 @@
+This project is part of "The Odin Project" and is an introduction to javascript and jQuery.
