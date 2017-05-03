@@ -1,12 +1,10 @@
 .cell {
-	width: 32px;
-	height: 32px;
 	background-color: white;
 	float: left;
 
 }
 
-.container {
+.grid {
 	width: 512px;
 	height: 512px;
 	text-align: center;
