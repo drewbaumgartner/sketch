@@ -2,7 +2,7 @@ var cellSize = 16;
 var gridSize = 512;
 
 $(document).ready(function(){
-
+	
 	buildGrid(cellSize);
 
 	$('#btnReset').click(function(){
