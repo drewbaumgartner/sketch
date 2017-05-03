@@ -18,3 +18,12 @@
 h1 {
 	text-align: center;
 }
+
+#btnSize, #btnReset {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.header {
+	text-align: center;
+}
